@@ -1,0 +1,4 @@
+project_id = "qbuuonkaqmxhranklcox"
+
+[functions.analyze-crowd]
+verify_jwt = true
